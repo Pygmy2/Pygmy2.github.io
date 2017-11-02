@@ -2,11 +2,11 @@
 	"applinks": {
 		"apps": [],
 		"details": [{
-				"appID": "6379BPE45W.com.nhncorp.NaverSearch",
+				"appID": "6379BPE45W.com.nhncorp.jr",
 				"paths": ["/", "/index.html"]
 			},
 			{
-				"appID": "Z29J673EM9.com.nhncorp.NaverSearchEnt",
+				"appID": "Z29J673EM9.com.nhncorp.jrnaverent",
 				"paths": ["/", "/index.html"]
 			}
 		]
