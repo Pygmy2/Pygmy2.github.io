@@ -1,5 +1,5 @@
 {
-	"applinks": {
+   "applinks": {
 		"apps": [],
 		"details": [{
 				"appID": "6379BPE45W.com.nhncorp.NaverSearch",
@@ -10,7 +10,7 @@
 				"paths": ["/", "/index.html"]
 			}
 		]
-	},
+    },
     "activitycontinuation": {
     	"apps": [    "6379BPE45W.com.nhncorp.NaverSearch",
         	         "Z29J673EM9.com.nhncorp.NaverSearchEnt" ]
@@ -18,7 +18,5 @@
     "webcredentials": {
     	"apps": ["6379BPE45W.com.nhncorp.NaverSearch",
         	         "Z29J673EM9.com.nhncorp.NaverSearchEnt" ]
-   	}
-    }
-
+   }
 }
