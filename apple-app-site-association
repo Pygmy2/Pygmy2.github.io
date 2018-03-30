@@ -1,6 +1,7 @@
 {
     "activitycontinuation": {
-    	"apps": ["6379BPE45W.com.nhncorp.NaverSearch"]
+    	"apps": ["6379BPE45W.com.nhncorp.NaverSearch", 
+		"Z29J673EM9.com.nhncorp.NaverSearchEnt"]
     },
    "applinks": {
 		"apps": [],
